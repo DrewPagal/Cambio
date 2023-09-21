@@ -8,3 +8,9 @@ Cambio is a game of unknown origin and is a somewhat obscure card game. Many lis
 1. With a shuffled deck, every player is given 4 cards
     Image
     (Optional: sometimes, cards are set up like this)
+2. Place the rest of the cards in a deck to draw from
+3. Determine the player turn order
+
+   Clockwise, counterclockwise, et cetera
+
+4.
