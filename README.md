@@ -16,20 +16,21 @@ Each card has a certain value and property
 - Red King: -1pt
 #### Properties
 You may chose to play these or not
-(Refers to any suit)
+(Refers to any suit unless specified otherwise)
 - 7 or 8: Look at one of your cards
 - 9 or 10: Look at one of someone else's card
 - Jack or Queen: Blind switch with a card of your own and someone else's card
-- Black king: 
+- Black king: Look at one of your cards and another players card and switch
 ### Setup
 1. With a shuffled deck, every player is given 4 cards
-
+2. Each player organizes their cards in a 2x2 pattern (alternatively, just do it however you want so long as you do not move them with the desire to trick opponents)
    Image
-    (Optional: sometimes, cards are set up in a 2x2 pattern)
-
 3. Place the rest of the cards in a deck to draw from
 4. Determine the player turn order
-
    Clockwise, counterclockwise, et cetera
-
-5. 
+### Play
+1. Everyone looks at two of their cards to try and memorize for future use
+2. The player whose turn it is draws a card and looks at it
+- They can decide to play it and put it in the throwaway pile, which would activiate and properties if they desire
+- OR they can decide to switch it with one of their cards and activate the switched card's property
+3. Go 
