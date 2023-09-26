@@ -7,7 +7,7 @@ Cambio is a relatively obscure card game. Many lists pertaining to card games of
 To have the least amount of points  
 
 ### Requirements
-- Standard deck of cards (jokers included)
+- Standard deck of cards (Jokers included)
 - Multiple people (So long as there is a sizable card stack to draw from) (4 starting cards per person)
 
 ### Card values and properties  
@@ -26,8 +26,8 @@ You may chose to play these or not
 - Black king: Look at one of your cards and another player's card and switch
 
 ### Setup
-1. With a shuffled deck, every player is given 4 cards (serves as the starting hand)
-2. Each player organizes their cards in a 2x2 pattern (alternatively, just do it however you want so long as you do not move them with the desire to trick opponents)
+1. With a shuffled deck, every player is given 4 cards (Serves as the starting hand)
+2. Each player organizes their cards in a 2x2 pattern (Alternatively, just do it however you want so long as you do not move them with the desire to trick opponents)
    Image
 3. Place the rest of the cards in a deck to draw from
 4. Determine the player turn order
