@@ -12,10 +12,11 @@ To have the least amount of points
 
 ### Card values and properties  
 Each card has a certain value and property  
-   #### Values
-   - Ace to king: 1-13pts
-   - Joker: 0pt
-   - Red King: -1pt
+
+         #### Values
+- Ace to king: 1-13pts
+- Joker: 0pt
+- Red King: -1pt
 
 #### Properties
 You may chose to play these or not
