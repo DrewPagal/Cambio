@@ -48,4 +48,4 @@ You may chose to play these or not
 - It is helpful to know your opponents' cards
 - Be on the ready for a special rule opportunity; you never know if someone else also has that opportunity
 
-theme:Architect
+theme:Merlot
