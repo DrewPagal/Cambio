@@ -30,9 +30,11 @@ You may chose to play these or not
 ### Setup
 1. With a shuffled deck, every player is given 4 cards (Serves as the starting hand)
 2. Each player organizes their cards in a 2x2 pattern (Alternatively, just do it however you want so long as you do not move them unecessarily with the desire to trick opponents)
-   <img src="https://img.freepik.com/free-vector/playing-cards-aces-set_78370-2354.jpg">
-4. Place the rest of the cards in a deck to draw from
-5. Determine the player turn order
+
+   <img src="https://img.freepik.com/free-vector/playing-cards-aces-set_78370-2354.jpg" width="300" height="300">
+   
+3. Place the rest of the cards in a deck to draw from
+4. Determine the player turn order
 
    *Clockwise, counterclockwise, et cetera*
    
