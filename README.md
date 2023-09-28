@@ -1,4 +1,5 @@
 # Guide on how to play Cambio/Cambiar
+
 Cambio is a relatively obscure card game. Many lists pertaining to card games often do not include this game simply because of this. But it is a fun game to play with friends every once in a while.
 
 *Reportedly, there are a few games that share the same name. The one that will be detailed may not be the variation you are looking for.*  
@@ -8,6 +9,7 @@ To have the least amount of points
 
 ### Requirements
 - [Standard deck of cards](https://en.wikipedia.org/wiki/Standard_52-card_deck) (Jokers included)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/English_pattern_playing_cards_deck.svg/1599px-English_pattern_playing_cards_deck.svg.png?20170224191528" width="640" height="290">
 - Multiple people (So long as there is a sizable card stack to draw from) (4 starting cards per person)
 
 ### Card values and properties  
@@ -28,8 +30,7 @@ You may chose to play these or not
 ### Setup
 1. With a shuffled deck, every player is given 4 cards (Serves as the starting hand)
 2. Each player organizes their cards in a 2x2 pattern (Alternatively, just do it however you want so long as you do not move them unecessarily with the desire to trick opponents)
-
-   Image
+   <img src="https://img.freepik.com/free-vector/playing-cards-aces-set_78370-2354.jpg">
 4. Place the rest of the cards in a deck to draw from
 5. Determine the player turn order
 
@@ -44,7 +45,7 @@ You may chose to play these or not
 - If you stick a wrong card, draw an unrevealed card to your hand
 3. Keep playing until someone says "cambio" at the start of their turn
 - Skip the person who said cambio and play one more round. You cannot change the "cambio" person's hand
-4. Reveal cards. The person with the total lowest value wins.
+4. Flip up cards. The person with the total lowest value wins.
 
 ### Tips
 - Try to know your cards as early as possible
