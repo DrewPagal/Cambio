@@ -40,7 +40,8 @@ You may chose to play these or not
 2. The player whose turn it is draws a card and looks at it
 - They can decide to play it and put it in a throwaway pile, which would activiate a properties if it has any
 - OR they can decide to switch it with one of their cards and play the switched card, activiating a property if it has any
-- ***Special rule:** If you know a value of your card or your opponents card and it is the same as the card being played, you may grab that card and place it in the pile. If you do it to your own hand, you would have one less card to worry about. If you do it to another person's hand, give a card from your hand to them. This cannot happen twice in a turn.*
+- ***Sticking:** If you know a value of your card or your opponents card and it is the same as the card being played, you may grab that card and place it in the pile. If you do it to your own hand, you would have one less card to worry about. If you do it to another person's hand, give a card from your hand to them. This cannot happen twice in a turn.*
+- If you stick a wrong card, draw an unrevealed card to your hand
 3. Keep playing until someone says "cambio" at the start of their turn
 - Skip the person who said cambio and play one more round. You cannot change the "cambio" person's hand
 4. Reveal cards. The person with the total lowest value wins.
