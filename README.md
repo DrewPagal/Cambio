@@ -9,7 +9,7 @@ To have the least amount of points
 
 ### Requirements
 - [Standard deck of cards](https://en.wikipedia.org/wiki/Standard_52-card_deck) (Jokers included)
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/English_pattern_playing_cards_deck.svg/1599px-English_pattern_playing_cards_deck.svg.png?20170224191528" width="640" height="290">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/English_pattern_playing_cards_deck.svg/1599px-English_pattern_playing_cards_deck.svg.png?20170224191528" width="640" height="230">
 - Multiple people (So long as there is a sizable card stack to draw from) (4 starting cards per person)
 
 ### Card values and properties  
